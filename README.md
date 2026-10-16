@@ -4,7 +4,7 @@ A fully procedural utility pole and power line generator built for SideFX Houdin
 
 [![Utility Pole Generator - HDA Houdini](https://img.youtube.com/vi/VqubYc91Zc8/0.jpg)](https://www.youtube.com/watch?v=VqubYc91Zc8)
 
-[link to Video]("[https://example.com/my-link "link title](https://www.youtube.com/watch?v=VqubYc91Zc8)")
+https://www.youtube.com/watch?v=VqubYc91Zc8
 
 ---
 
