@@ -2,7 +2,7 @@
 
 A fully procedural utility pole and power line generator built for SideFX Houdini. This Digital Asset (HDA) creates highly customizable transmission corridors and distribution lines driven by layout curves, automatically adapting to terrain surfaces with realistic catenary cable sag, structural crossbeams, insulators, and hardware assemblies.
 
-https://youtu.be/VqubYc91Zc8
+[![Utility Pole Generator - HDA Houdini](https://img.youtube.com/vi/VqubYc91Zc8/0.jpg)](https://www.youtube.com/watch?v=VqubYc91Zc8)
 
 ---
 
@@ -31,9 +31,3 @@ https://youtu.be/VqubYc91Zc8
   * Dedicated viewport visualizer controls to inspect the guide trajectory and distribution points prior to heavy geometry evaluation
 
 ---
-
-## Installation
-
-1. Clone or download the repository:
-   ```bash
-   git clone [https://github.com/your-username/houdini-utility-pole-generator.git](https://github.com/your-username/houdini-utility-pole-generator.git)
